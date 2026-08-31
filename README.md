@@ -1,2 +1,0 @@
-# YOLANDA-BACKEND-TEST
-Testing
